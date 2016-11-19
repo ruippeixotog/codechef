@@ -41,6 +41,7 @@ The following is the list of the problems solved. Each problem identifier is spe
 
 * ✓ [Bytelandian gold coins][COINS] (`COINS`)
 * ✓ [Longest Increasing Subsequences][MAKELIS] (`MAKELIS`)
+* ✓ [Prime Generator][PRIME1] (`PRIME1`)
 
 [1]: https://www.codechef.com
 
@@ -57,3 +58,4 @@ The following is the list of the problems solved. Each problem identifier is spe
 
 [COINS]: https://www.codechef.com/problems/COINS
 [MAKELIS]: https://www.codechef.com/problems/MAKELIS
+[PRIME1]: https://www.codechef.com/problems/PRIME1
